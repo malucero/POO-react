@@ -1,0 +1,24 @@
+.container{
+    background-color: azure;
+    width: 1200px;
+}
+
+.idTabla {
+    background-color: aqua;
+    color: black;
+}
+.encabezado{
+    background-color: black;
+    color: blanchedalmond;
+    margin-top: 20px;
+}
+.contrasena{
+    background-color: black;
+    color: blanchedalmond;
+    margin-top: 10px;
+}
+.email{
+    background-color: red;
+    color: blanchedalmond;
+    margin-top: 25px;
+}
